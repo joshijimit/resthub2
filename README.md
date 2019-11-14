@@ -1,9 +1,9 @@
 # Installation
 
-npm install
-npm install -g nodemon
-Start Server with - nodemon index
-call - https://localhost:8080/api/contacts
+* npm install
+* npm install -g nodemon
+* Start Server with - nodemon index
+* call - https://localhost:8080/api/contacts
 
 # REST HUb 2.0
 
